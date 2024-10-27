@@ -289,4 +289,4 @@ public classIPHeader 
 }
 ```
 **Пример:**
-![](Пример интерфейса.png)
+![](example.png)
