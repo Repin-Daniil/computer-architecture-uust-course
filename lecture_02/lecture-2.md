@@ -1,4 +1,5 @@
-# Аналоговые вычисления
+# Физические основы вычислительных устройств
+## Аналоговые вычисления
 Вычислительные устройства бывают аналоговые и цифровые
 Аналоговые появились раньше
 - Вычисления на основе конкретных физических параметров 
@@ -9,15 +10,22 @@
 	- Пример актуального приложения – биологически правдоподобные нейроморфные вычисления, ПИД-регуляторы
 	- Аналоговые ЭВМ строятся на основе операционных усилителей
 
+Примеры использования
+- Автоматическая коробка передач в авто
+- ПИД-регулятор
+
+### Операционный усилитель
+
+### Аналоговая схемотехника на ОУ
 
 
+## Элементная база цифровых вычислений
+
+## Базовые логические функции
 
 
-https://www.youtube.com/watch?v=LM6TjTI5K_Y
-https://www.youtube.com/watch?v=tmMNLH-3g5k
-https://www.youtube.com/watch?v=AUu805vJ8e0&list=PLmu_y3-DV2_mdPNAjp_8VIhtdlWPuZKZL
-https://www.youtube.com/watch?v=uhQEeOp4kRg
-https://www.youtube.com/watch?v=vsX4xMseF14
-https://www.youtube.com/watch?v=e5TmYrVjZI0
-https://www.youtube.com/watch?v=7QLQplw5EKE
-https://www.youtube.com/watch?v=vsX4xMseF14
+## Дополнителные материалы
+- [Презентация]()
+- [Подорка статей об аналоговых вычислениях](https://dzen.ru/suite/813ff909-0a0c-4d10-8fac-94c1459fe3d9)
+- [Операционный усилитель](https://github.com/user-attachments/files/17637174/20_Electronics_12_OpAmp_2016.pdf)
+- [Аналоговые устройства](https://github.com/user-attachments/files/17637190/Davidov_analog.pdf)
