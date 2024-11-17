@@ -28,6 +28,7 @@
 Примеры использования:
 - Автоматическая коробка передач в автомобиле
 - ПИД-регулятор
+- Логарифмическая линейка
 
 ### Операционный усилитель
 Усилители в целом – это устройства, которые изменяют некоторый сильный выходной сигнал пропорционально слабому входному.
@@ -42,7 +43,7 @@
   - $U_{OUT}$ — выход;
   - $G\rightarrow\infty$ — собственный коэффициент усиления.
 
-$$U_{OUT}=(U_{+}-U_{-})*G$$
+$$U_{OUT}=(U_{+}-U_{-})\times G$$
 
 С точки зрения аналоговой схемотехники ОУ сам по себе работает как **усилитель с дифференциальным входом,** но плохо (G велик, скачет, не регулируется и т.д.)
 
@@ -53,7 +54,7 @@ $$U_{OUT}=(U_{+}-U_{-})*G$$
 ### Аналоговая схемотехника на ОУ
 - **Неинвертирующий усилитель**
 	
-	$$U_{OUT}=U_{+}*\frac{R_1+R_2}{R_1}$$
+	$$U_{OUT}=U_{+}\times\frac{R_1+R_2}{R_1}$$
 	
 	<img width="522" alt="image" src="https://github.com/user-attachments/assets/84653f85-60ad-475c-a258-65fce5aed19d">
 
@@ -61,7 +62,7 @@ $$U_{OUT}=(U_{+}-U_{-})*G$$
 
 - **Повторитель**
  
-  Частный случай, Когда $R_1\rightarrow\infty,R_2\rightarrow0$
+  Частный случай, когда $R_1\rightarrow\infty,R_2\rightarrow0$
 
   $$U_{OUT}=U_{+}$$
 
@@ -72,7 +73,7 @@ $$U_{OUT}=(U_{+}-U_{-})*G$$
 
 - **Инвертирующий усилитель**
 
-	 $$U_{OUT}=-U_{-}*\frac{R_2}{R_1}$$ 
+	 $$U_{OUT}=-U_{-}\times\frac{R_2}{R_1}$$ 
 	
 	 $R_2$ - сопротивление обратной связи
 	
@@ -80,7 +81,7 @@ $$U_{OUT}=(U_{+}-U_{-})*G$$
 	
 - **Сумматор** 
 	
-	 $$U_{OUT}=-R_{OC}*(\frac{U_{1}}{R_{1}}+...+\frac{U_{n}}{R_{n}})$$
+	 $$U_{OUT}=-R_{OC}\times(\frac{U_{1}}{R_{1}}+...+\frac{U_{n}}{R_{n}})$$
 	
 	 <img width="391" alt="image" src="https://github.com/user-attachments/assets/58fce9d4-efc9-40aa-a433-08218ed00a4c">
 	
@@ -90,7 +91,7 @@ $$U_{OUT}=(U_{+}-U_{-})*G$$
 
   	![image](https://github.com/user-attachments/assets/7c1cf8f5-f438-432b-82b8-8c75ed489ec4)
    
-	$$U_{OUT}=\frac{(R_1+R_2)*R_4}{(R_3+R_4)*R_1}U_2-\frac{R_2}{R_1}U_1$$
+	$$U_{OUT}=\frac{(R_1+R_2)\times R_4}{(R_3+R_4)\times R_1}U_2-\frac{R_2}{R_1}U_1$$
 
 
  	![image](https://github.com/user-attachments/assets/cf46198c-9373-4028-a354-dd6af7d5c1c0)
@@ -197,7 +198,7 @@ $$U_{OUT}=(U_{+}-U_{-})*G$$
 	<img width="179" alt="image" src="https://github.com/user-attachments/assets/0c568af4-b566-4767-9143-14f3ac102a01">
 
 ### Базовые логические элементы
-Слева будут отечественные обозначения, а справа зарубежные
+Слева будут отечественные обозначения, справа – зарубежные
 1) **НЕ** $$\overline{x}$$ 
 
 
@@ -213,12 +214,13 @@ $$U_{OUT}=(U_{+}-U_{-})*G$$
 
 	<img width="395" alt="image" src="https://github.com/user-attachments/assets/b135ca19-c4e0-4a7a-927b-48658599ce04">
 
-4) **И** $x_1*x_2$
+4) **И** $x_1\cdot x_2$
 
 
 	<img width="368" alt="image" src="https://github.com/user-attachments/assets/4f11dacf-225b-4591-a669-62006ff21388">
 
-5) **И-НЕ** $\neg{(x_1*x_2)}$
+5) **И-НЕ** $\neg{(x_1\cdot x_2)}$
+   
    2И-НЕ - число означает количество входов 
 
 	<img width="389" alt="image" src="https://github.com/user-attachments/assets/8489cae7-584c-44ef-9155-7ae68e610167">
