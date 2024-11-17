@@ -232,7 +232,7 @@ $$U_{OUT}=(U_{+}-U_{-})\times G$$
 
 
 ## Дополнительные материалы
-- [Презентация](https://github.com/Repin-Daniil/computer-architecture-uust-course/blob/lecture-2/lecture_02/Дополнительные%20материалы/лекция_02_ФИЗИЧЕСКИЕ_ОСНОВЫ.pdf)
+- [Презентация](https://github.com/Repin-Daniil/computer-architecture-uust-course/blob/lecture-2/lecture_02/ref/лекция_02_ФИЗИЧЕСКИЕ_ОСНОВЫ.pdf)
 - [Подорка статей об аналоговых вычислениях](https://dzen.ru/suite/813ff909-0a0c-4d10-8fac-94c1459fe3d9)
 - [Операционный усилитель](https://github.com/user-attachments/files/17637174/20_Electronics_12_OpAmp_2016.pdf)
 - [Аналоговые устройства](https://github.com/user-attachments/files/17637190/Davidov_analog.pdf)
