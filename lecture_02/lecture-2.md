@@ -233,7 +233,9 @@ $$U_{OUT}=(U_{+}-U_{-})\times G$$
 
 	<img width="377" alt="image" src="https://github.com/user-attachments/assets/ef3aeb92-a77f-4caa-9ceb-61ec77519c29">
 
+[⬅️ Предыдущая лекция](../lecture_01/lecture-1.md)
 [📚 Вернуться к оглавлению](../README.md)
+[➡️ Следующая лекция](../lecture_03/lecture-3.md)
 
 ## Дополнительные материалы
 - [Презентация](https://github.com/Repin-Daniil/computer-architecture-uust-course/blob/lecture-2/lecture_02/ref/лекция_02_ФИЗИЧЕСКИЕ_ОСНОВЫ.pdf)
