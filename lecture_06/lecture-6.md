@@ -27,7 +27,7 @@
 
 ## Модуляция
 
-![image](https://github.com/user-attachments/assets/3e840744-4600-4fa0-a18e-20ed5bc46fa8)
+![image](https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif)
 
 ### Амплитудная
 
