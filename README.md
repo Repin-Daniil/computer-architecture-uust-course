@@ -6,9 +6,9 @@
 
 ## Оглавление
 ### Конспекты
-- [Лекция №1 «Введение в курс»](Lectures/lecture_01/lecture-1.md)
+- [Лекция №1 «Введение в курс»](Lectures/lecture-1.md)
 - [Лекция №2 «Аналоговые вычисления. Физические основы»](Lectures/lecture-2.md)
-- [Лекция №3 «Схемотехника»](Lectures/lecture_03/lecture-3.md)
+- [Лекция №3 «Схемотехника»](Lectures/lecture-3.md)
 - [Лекция №4 «Микропроцессоры»](Lectures/lecture-4.md)
 - [Лекция №5 «Память»](Lectures/lecture-5.md)
 - [Лекция №6 «Сети» (черновик)](Lectures/lecture-6.md)
