@@ -296,3 +296,8 @@ Jim." Но можно было спокойно сделать это и на 10
 - [Презентация](https://github.com/user-attachments/files/18033436/_04_.pdf)
 - [Оригинал истории капитана Итаника](https://habr.com/ru/articles/664682/)
 - [Про конвейер](https://courses.cs.washington.edu/courses/cse410/10sp/lectures/09-pipelining-1.pdf)
+- [МФТИ-шная лекция](https://www.youtube.com/watch?v=LM6TjTI5K_Y&list=PLtWzSku1VHKDOr59H6S8rxhFMwoIXZj0o)
+- [CISC/RISC](https://habr.com/ru/companies/selectel/articles/542074/)
+- [Еще о конвейере](https://habr.com/ru/articles/182002/)
+- [О кэшах](https://habr.com/ru/companies/vdsina/articles/515660/)
+- [Основы](https://dzen.ru/a/ZKuC0WuR2WXPQZJr)
