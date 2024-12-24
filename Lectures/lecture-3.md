@@ -453,4 +453,4 @@ ROM условно называется памятью, по факту може
 - [Комбинационные схемы](https://github.com/user-attachments/files/18020780/07_Electronics_22_Combin_Logic_2016.pdf)
 - [Последовательностные схемы](https://github.com/user-attachments/files/18020804/014_DD_LECTURE_Sequential_Logic_2020.pdf)
 - [Учебник](https://github.com/user-attachments/files/18020816/filpflop.pdf)
-
+- [Курс лекций по теме](https://www.youtube.com/watch?v=R-twnbnaueE&list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH&index=4)
